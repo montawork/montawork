@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1)
+
 <h1 align="center">Hi 👋, I'm Montassar Haddaji</h1>
 <h3 align="center">A Full Stack web developer (MERN Stack, Python Stack, C#/.NET Stack)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montawork&show_icons=true&locale=en" alt="montawork" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montawork&" alt="montawork" /></p>
+
+
